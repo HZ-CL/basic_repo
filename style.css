@@ -1,0 +1,6 @@
+body {
+    width: 900px;
+    height: 900px;
+    /* background-image: radial-gradient(circle, red, orange, yellow, green, blue, indigo, violet));*/
+    background-image: radial-gradient(circle, red, orange, yellow, green, blue, indigo, violet);
+}
