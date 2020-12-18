@@ -1,0 +1,29 @@
+$mkdir basic_repo --> crear directorio basic_repo
+
+$cd basic_repo -->ingersar al directorio basic_repo
+
+$touch index.html --> crear el archivo html
+
+$touch style.css --> crear archivo css
+
+$touch comandos_act4.txt --> crear archivo txt
+
+$git init --> inici git
+
+$git add . --> preparar los archivos para el commit
+
+$git commit -m "primer commit" --> generar la version con el commit
+
+$git branch -M master --> crear la rama master
+
+$git remote add origin https://github.com/HZ-CL/basic_repo.git --> agregar el repositorio remoto
+
+$git push -u origin master --> para subir los arcivos al repositorio en github.com
+
+--> cambios en los archivos
+
+$git add . --> para preparar los archivos modificados
+
+$git commit -m "rainbow colors" --> general la version del commit con las modificaciones realizadas
+
+$git push -u origin master --> subir los archivos modificados al repertorio en github.com
